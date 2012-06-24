@@ -6,7 +6,7 @@ public class Datum implements Comparable, Date {
 	int month;
 	int year;
 	Date d;
-	
+	//test
 	public Datum (int day, int month, int year, Date d) {
 		this.day=day;
 		this.month=month;
